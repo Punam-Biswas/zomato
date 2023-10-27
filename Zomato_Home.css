@@ -1,0 +1,77 @@
+.header{
+    background-image: linear-gradient(#9D0E0E00 7%, #4F0707 108%) ,url('./photo/background_image.png');
+    background-size: cover;
+    background-position: center;
+    height: 30em;
+    position: relative;
+}
+
+.button{
+    margin-left: 1019px;
+    padding: 14px;
+}
+
+.circle {
+    background-color: #fff;
+    width: 143px;
+    height: 140px;
+    border-radius: 50%;
+    margin: 24px 564px;
+}
+
+.logo{
+    font-size: 96px;
+    text-align: center;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.heading{
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 38px;
+    text-align: center;
+    margin-left: 12px;
+}
+
+.search{
+    margin: 58px 300px;
+
+}
+.text{
+    width: 235px;
+}
+
+.top{
+    font-weight: bold;
+    color: #192F60;
+    margin: 12px 104px;
+}
+.sub_title{
+    color: #8C96AB;
+    margin: 12px 107px;
+}
+.box{
+    border: 1px solid #FFFFFF;
+    box-shadow: 3px 4px 10px #00000029;
+    margin: 15px -82px;
+    margin-left: 108px;
+}
+.l_box{
+    width: 7em;
+}
+.img{
+    max-width: 141%;
+    height: 157px;
+    object-fit: cover;
+}
+.r_box{
+    padding: 2em;
+    margin: -16px -15px;
+    margin-left: 30px;
+    width: 14em;
+    padding-left: 43px;
+    
+}
+
+  
